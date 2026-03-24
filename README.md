@@ -59,7 +59,7 @@ hf_hub_download(repo_id="Darth-Freljord/ppe-detection-yolov5", filename="yolov5s
 
 | Detection Output (Static) | Real-Time Inference (Live) |
 |:---:|:---:|
-| ![PPE Detection Result](DisplayPIC.jpg) | ![PPE Live Demo](DisplayGIF.gif) |
+| ![PPE Detection Result](DisplayPIC.jpg) | ![PPE Live Demo](Display.gif) |
 
 > *Note: The image above shows the high-precision detection of PPE equipment, while the GIF demonstrates the real-time "No-PPE" detection logic in action.*
 
