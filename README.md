@@ -23,7 +23,7 @@ Published at **AAAI 2025 Summer Symposium** → [Read the Paper](https://ojs.aaa
 
 | Resource | Link |
 |----------|------|
-| 🤗 Trained Model Weights (`best.pt`) | [Hugging Face →](https://huggingface.co/Darth-Freljord/ppe-detection-yolov5) |
+| 🤗 Trained Model Weights (`best.pt`) | [Hugging Face →](https://huggingface.co/DarthRegicid1/YOLOv5_PPE-Detection) |
 | 📂 Datasets (Pictor-PPE, VOC2028, CHV) | Cited in [paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/36044) — see Dataset section below |
 
 ### Download Weights Locally
